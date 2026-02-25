@@ -1,9 +1,4 @@
 # -mini-rag-assistant
-Ahhh 😄 got it. You want a README.md for your project.
-
-Here’s a clean, professional README you can paste directly into README.md in your repo:
-
-⸻
 
 📄 Mini RAG Assistant
 
@@ -176,10 +171,3 @@ Built as a learning project to understand:
 	•	AI system architecture
 
 ⸻
-
-If you want, I can also generate:
-	•	A more minimal README
-	•	A more “resume-ready” polished version
-	•	Or a GitHub portfolio-optimized version
-
-Tell me the vibe you want.
